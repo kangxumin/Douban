@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-runoob.comi
-ddddddddddddddddddd
-=======
 runoob.com
-antell.com.cn
->>>>>>> change_site
+新增加一行
